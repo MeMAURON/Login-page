@@ -1,2 +1,1 @@
 # Login-page
-arvah.jpg
