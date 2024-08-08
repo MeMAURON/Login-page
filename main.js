@@ -1,1 +1,1 @@
-console.log(" @MeMAURON at all platform ")
+console.log(" Hello world ")
