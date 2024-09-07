@@ -1,2 +1,2 @@
 # Login Beautiful page whit RGB Rings ...
-Backend code not work every where 
+Backend code not work every where it's need class by class analiz
